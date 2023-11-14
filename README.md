@@ -1,1 +1,1 @@
-# CS512Project
+This is the GitHub repository for our CS512 Final Project. Explore our work on automatic crack detection using an encoder-decoder architecture. The repository includes the proposed U-Hierarchical Dilated Network (U-HDN) and comparisons with other models. Dive into the code, architecture details, and evaluation metrics to gain insights into our research on enhancing concrete crack detection for improved infrastructure maintenance and safety.
